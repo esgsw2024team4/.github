@@ -18,7 +18,7 @@
     - 과목별 문제/정답 저장
     - 과목별 출제된 문제은행 확인 & 풀이
     - 문제 스크랩 기능
-
+<br><br>
 ## 기술 스택
 ### Front-end
 - Typescript
@@ -28,15 +28,14 @@
 
 ### Back-end
 
-
-
+<br><br>
 ## 팀원 소개
 FE+BE / 조정우 / <br>
 FE / 박성인 / <br>
 FE / 전윤서 / <br>
 BE / 허유정 / <br>
 BE / 구유정 / <br>
-
+<br><br>
 ## 협업 툴
 
 Notion 팀 페이지
