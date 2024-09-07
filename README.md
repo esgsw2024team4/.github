@@ -19,7 +19,7 @@
     - 과목별 출제된 문제은행 확인 & 풀이
     - 문제 스크랩 기능
 <br><br>
-## 기술 스택
+## 🧑🏻‍💻 기술 스택
 ### Front-end
 - Typescript
 - React-router-dom
@@ -29,17 +29,17 @@
 ### Back-end
 
 <br><br>
-## 🤼팀원 소개
+## 🤼 팀원 소개
 FE+BE / 조정우 / <br>
 FE / 박성인 / <br>
 FE / 전윤서 / <br>
 BE / 허유정 / <br>
 BE / 구유정 / <br>
 <br><br>
-## 협업 툴
+## 🛠️ 협업 툴
 
-Notion 팀 페이지
+<strong>Notion 팀 페이지</strong>
 <img width="1440" alt="스크린샷 2024-09-05 오전 3 14 05" src="https://github.com/user-attachments/assets/72144525-d02a-4c6a-ab9f-ccf691423a23">
 
-Figma 링크<br>
+<strong>Figma 링크</strong><br>
 https://www.figma.com/design/sfqM2ZevrLzJ0OgPU8N8jV/esg-sw?node-id=0-1&t=gCeO7UjAHjRHY84x-1
