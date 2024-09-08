@@ -27,6 +27,10 @@
 - Axios
 
 ### Back-end
+- Typescript
+- Express
+- Sequelize
+- Passport
 
 <br><br>
 ## 🤼 팀원 소개
