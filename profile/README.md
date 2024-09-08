@@ -42,8 +42,10 @@ BE / 구유정 / <br>
 <br><br>
 ## 🛠️ 협업 툴
 
-<strong>Notion 팀 페이지</strong>
+### 💭Notion 팀 페이지
 <img width="1440" alt="스크린샷 2024-09-05 오전 3 14 05" src="https://github.com/user-attachments/assets/72144525-d02a-4c6a-ab9f-ccf691423a23">
+<br>
 
-<strong>Figma 링크</strong><br>
+### 🎨Figma 링크
 https://www.figma.com/design/sfqM2ZevrLzJ0OgPU8N8jV/esg-sw?node-id=0-1&t=gCeO7UjAHjRHY84x-1
+<br><br>
