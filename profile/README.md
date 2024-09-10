@@ -34,11 +34,14 @@
 
 <br><br>
 ## 🤼 팀원 소개
-FE, BE / 조정우 / <br>
-FE / 박성인 / <br>
-FE, UI/UX / 전윤서 / <br>
-BE / 허유정 / <br>
-BE / 구유정 / <br>
+| 담당 역할 | 팀원 |
+| ------- | ---- |
+| FE, BE  | 조정우 | 
+| FE, 기획 | 전윤서 |
+| FE      | 박성인 | 
+| BE      | 허유정 | 
+| BE      | 구유정 | 
+
 <br><br>
 ## 🛠️ 협업 툴
 
@@ -49,3 +52,7 @@ BE / 구유정 / <br>
 ### 🎨 Figma 링크
 https://www.figma.com/design/sfqM2ZevrLzJ0OgPU8N8jV/esg-sw?node-id=0-1&t=gCeO7UjAHjRHY84x-1
 <br><br>
+
+| Variable Name       | Description          |
+| ------------------- | -------------------- |
+| VITE_URL_API_SERVER | 백엔드 서버 API 주소 |
